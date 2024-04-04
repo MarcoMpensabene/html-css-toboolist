@@ -11,7 +11,6 @@ img{
 }
 header{
     padding: 1rem;
-    border: 3px solid black;
     margin-bottom: 50px;
 }
 h1{
@@ -61,6 +60,7 @@ button{
 }
 ul{
     font-size: 1.3rem;
+    padding-left: 1.5rem;
 }
 .list-button{
     height: 28px;
