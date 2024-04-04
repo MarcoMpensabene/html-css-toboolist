@@ -4,13 +4,15 @@
     box-sizing: border-box;
 }
 body{
-    background-color: green;
+    background-color: lightgrey;
 }
 img{
     height: 4rem;
 }
 header{
     padding: 1rem;
+    border: 3px solid black;
+    margin-bottom: 50px;
 }
 h1{
     display: inline-block;
@@ -21,5 +23,25 @@ h1{
     /*font-style: Arial;*/
 }
 .background-white{
-    background-color: white;
+    background-color: #FFFFFF;
+}
+.nav-container{
+    width: 1000px;
+    height: 80px;
+    background-color: #FFFFFF;
+    margin: auto;  
+    padding-left: 6rem;
+    padding-top: 1.8rem;
+}
+.list-container{
+    width: 1000px;
+    height: 1200px;
+    background-color: #FFFFFF;
+    margin: auto;
+    margin-top: 2px;
+}
+button{
+    height: 40px;
+    width: 120px;
+
 }
