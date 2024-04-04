@@ -39,9 +39,20 @@ h1{
     background-color: #FFFFFF;
     margin: auto;
     margin-top: 2px;
+    padding-left: 6rem;
 }
 button{
     height: 40px;
     width: 120px;
-
+    border-radius: 10px;
+}
+.button-blue{
+    color: white;
+    background-color: #47ADF1;
+    border: #47ADF1;
+}
+.button-grey{
+    color: lightgray;
+    background-color: #ECEFF0;
+    border: #ECEFF0;
 }
