@@ -41,18 +41,47 @@ h1{
     margin-top: 2px;
     padding-left: 6rem;
 }
-button{
+
+.nav-button{
     height: 40px;
     width: 120px;
     border-radius: 10px;
 }
-.button-blue{
+button{
+    border: transparent;
     color: white;
+}
+.button-blue{
     background-color: #47ADF1;
-    border: #47ADF1;
 }
 .button-grey{
-    color: lightgray;
+    color: grey;
     background-color: #ECEFF0;
-    border: #ECEFF0;
+    border:1px solid grey;
+}
+ul{
+    font-size: 1.3rem;
+}
+.list-button{
+    height: 28px;
+    width: 80px;
+    border-radius: 15px;
+}
+h2{
+    padding-top: 30px;
+}
+.button-violet{
+background-color:#9C72E4 ;
+}
+.button-green{
+    background-color:#8DD4C4 ;
+}
+.button-orange{
+    background-color: #F29E33;
+}
+.button-pink{
+    background-color:#D863A1 ;
+}
+.button-gold{
+    background-color: #B0C926;
 }
