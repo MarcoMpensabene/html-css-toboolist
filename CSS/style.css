@@ -58,7 +58,7 @@ button{
 }
 ul{
     font-size: 1.3rem;
-    padding-left: 1.5rem;
+    list-style: none
 }
 .list-button{
     height: 30px;
@@ -86,4 +86,18 @@ background-color:#9C72E4 ;
 
 li{
     margin-bottom: 20px;
+    
+}
+span{
+    padding-left: 5px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.green-check{
+    color: green;
+    border: 1px solid green;
+}
+.red-cross{
+    color: red;
+    border: 1px solid red;
 }
