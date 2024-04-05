@@ -23,18 +23,19 @@ h1{
     background-color: #FFFFFF;
 }
 .nav-container{
-    width: 1000px;
+    width: 60%;
     height: 80px;
     background-color: #FFFFFF;
-    margin: auto;  
+    margin: 0 auto;  
     padding-left: 6rem;
     padding-top: 1.8rem;
+    border-radius: 0.5rem 0.5rem 0 0 ;
 }
 .list-container{
-    width: 1000px;
-    height: 1200px;
+    width: 60%;
+    height: 1000px;
     background-color: #FFFFFF;
-    margin: auto;
+    margin:0 auto;
     margin-top: 2px;
     padding-left: 6rem;
 }
@@ -67,6 +68,7 @@ ul{
 }
 h2{
     padding-top: 30px;
+    margin-bottom: 10px;
 }
 .button-violet{
 background-color:#9C72E4 ;
@@ -93,11 +95,13 @@ span{
     border-radius: 50%;
     margin-right: 20px;
 }
+
+
 .green-check{
     color: green;
-    border: 1px solid green;
+    border: 1.5px solid green;
 }
 .red-cross{
     color: red;
-    border: 1px solid red;
+    border: 1.5px solid red;
 }
